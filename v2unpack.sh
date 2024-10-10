@@ -10,12 +10,12 @@ sing-box geosite list private -f db/geosite.db | awk '{print $1}' | sort > geosi
 while IFS= read -r category; do
     v2dat unpack geosite -o "original/geosite" -f "$category" "db/geosite.dat" &
 done < geosite_categories.list
+wait
 
 sing-box geoip list -f db/geoip.db | awk '{print $1}' | sort > geoip_categories.list
 while IFS= read -r category; do
     v2dat unpack geoip -o "original/geoip" -f "$category" "db/geoip.dat" &
 done < geoip_categories.list
-
 wait
 
 
