@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "brawlstarsgame.com",
+        "supercell.com",
+        "supercell.net",
+        "supercell.helpshift.com"
+      ],
+      "domain_suffix": [
+        ".brawlstarsgame.com",
+        ".supercell.com",
+        ".supercell.net",
+        ".supercell.helpshift.com"
+      ]
+    }
+  ]
+}
