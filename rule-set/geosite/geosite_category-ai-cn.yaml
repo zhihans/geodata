@@ -1,0 +1,25 @@
+payload:
+  - DOMAIN,cueme-api.quark.cn
+  - DOMAIN-SUFFIX,chatglm.cn
+  - DOMAIN-SUFFIX,xingyeai.com
+  - DOMAIN-SUFFIX,rwkv.cn
+  - DOMAIN-SUFFIX,zhipuai.cn
+  - DOMAIN-SUFFIX,qwen.ai
+  - DOMAIN-SUFFIX,qwenlm.ai
+  - DOMAIN-SUFFIX,cueme.cn
+  - DOMAIN-SUFFIX,tiangong.cn
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,moonshot.cn
+  - DOMAIN-SUFFIX,liblib.art
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,marscode.cn
+  - DOMAIN-SUFFIX,botvip.cn
+  - DOMAIN-SUFFIX,hailuoai.com
+  - DOMAIN-SUFFIX,minimaxi.com
+  - DOMAIN-SUFFIX,rwkv.com
+  - DOMAIN-SUFFIX,baichuan-ai.com
+  - DOMAIN-SUFFIX,hunyuan.tencent.com
+  - DOMAIN-SUFFIX,xinghuo.xfyun.cn
+  - DOMAIN-SUFFIX,tongyi.aliyun.com
+  - DOMAIN-SUFFIX,yiyan.baidu.com
+  - DOMAIN-SUFFIX,qianwen.aliyun.com
