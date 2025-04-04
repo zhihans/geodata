@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "1password.ca",
+        "1password.com",
+        "1password.eu",
+        "agilebits.com"
+      ],
+      "domain_suffix": [
+        ".1password.ca",
+        ".1password.com",
+        ".1password.eu",
+        ".agilebits.com"
+      ]
+    }
+  ]
+}
