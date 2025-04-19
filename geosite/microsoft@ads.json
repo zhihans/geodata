@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "nelreports.net",
+      "domain_suffix": ".nelreports.net"
+    }
+  ]
+}
