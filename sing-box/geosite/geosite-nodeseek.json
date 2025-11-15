@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "deepflood.com",
+        "nodeseek.com"
+      ],
+      "domain_suffix": [
+        ".deepflood.com",
+        ".nodeseek.com"
+      ]
+    }
+  ]
+}

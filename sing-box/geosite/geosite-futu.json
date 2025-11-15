@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "futuesop.com",
+        "futufin.com",
+        "futuhk.com",
+        "futuhn.com",
+        "futuholdings.com",
+        "futuniuniu.com",
+        "futunn.com",
+        "futustatic.com",
+        "moomoo.com",
+        "moomooequity.com",
+        "moomootrustee.com"
+      ],
+      "domain_suffix": [
+        ".futuesop.com",
+        ".futufin.com",
+        ".futuhk.com",
+        ".futuhn.com",
+        ".futuholdings.com",
+        ".futuniuniu.com",
+        ".futunn.com",
+        ".futustatic.com",
+        ".moomoo.com",
+        ".moomooequity.com",
+        ".moomootrustee.com"
+      ]
+    }
+  ]
+}
