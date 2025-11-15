@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "imcome.net",
+        "haidilao.com",
+        "heytea.com",
+        "anlaiye.com",
+        "imcoming.com",
+        "3songshu.com",
+        "517lppz.com",
+        "lppz.com",
+        "lppzimg.com",
+        "lkcoffee.com",
+        "luckincoffeecdn.com",
+        "yyds.co",
+        "anlaiye.com.cn"
+      ],
+      "domain_suffix": [
+        ".imcome.net",
+        ".haidilao.com",
+        ".heytea.com",
+        ".anlaiye.com",
+        ".imcoming.com",
+        ".3songshu.com",
+        ".517lppz.com",
+        ".lppz.com",
+        ".lppzimg.com",
+        ".lkcoffee.com",
+        ".luckincoffeecdn.com",
+        ".yyds.co",
+        ".anlaiye.com.cn"
+      ]
+    }
+  ]
+}
