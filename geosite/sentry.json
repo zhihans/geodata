@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": "sentry.io",
+      "domain_suffix": ".sentry.io"
+    }
+  ]
+}
