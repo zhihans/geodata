@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-REGEX,^.+-mihayo\.akamaized\.net$
