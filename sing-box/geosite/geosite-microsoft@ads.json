@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "clarity.ms",
+        "microsoftads.com",
+        "msads.net",
+        "nelreports.net",
+        "bingads.com"
+      ],
+      "domain_suffix": [
+        ".clarity.ms",
+        ".microsoftads.com",
+        ".msads.net",
+        ".nelreports.net",
+        ".bingads.com"
+      ]
+    }
+  ]
+}
