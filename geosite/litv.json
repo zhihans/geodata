@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ntdofifreepc-tgc.cdn.hinet.net",
+        "ntdofifreevcpc-tgc.cdn.hinet.net",
+        "litv.tv",
+        "ofiii.com",
+        "litvfreepc.akamaized.net"
+      ],
+      "domain_suffix": [
+        ".litv.tv",
+        ".ofiii.com",
+        ".litvfreepc.akamaized.net"
+      ]
+    }
+  ]
+}
