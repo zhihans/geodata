@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "playfamily.ru",
+        "okko.sport",
+        "okko.tv",
+        "rutube.ru",
+        "rutubelist.ru",
+        "rtbcdn.ru",
+        "ngenix.net",
+        "restream-media.net",
+        "wink.ru"
+      ],
+      "domain_suffix": [
+        ".playfamily.ru",
+        ".okko.sport",
+        ".okko.tv",
+        ".rutube.ru",
+        ".rutubelist.ru",
+        ".rtbcdn.ru",
+        ".ngenix.net",
+        ".restream-media.net",
+        ".wink.ru"
+      ]
+    }
+  ]
+}
