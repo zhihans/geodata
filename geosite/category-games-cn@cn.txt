@@ -1,0 +1,3 @@
+regexp:^.+-mihayo\.akamaized\.net$
+kurogames.com
+aki-game.com
