@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ozon.ru",
+        "ozone.ru",
+        "ozonusercontent.com",
+        "geobasket.ru",
+        "paywb.com",
+        "rwb.ru",
+        "wb-basket.ru",
+        "wb.ru",
+        "wbbasket.ru",
+        "wbpay.ru",
+        "wibes.ru",
+        "wildberries.ru"
+      ],
+      "domain_suffix": [
+        ".ozon.ru",
+        ".ozone.ru",
+        ".ozonusercontent.com",
+        ".geobasket.ru",
+        ".paywb.com",
+        ".rwb.ru",
+        ".wb-basket.ru",
+        ".wb.ru",
+        ".wbbasket.ru",
+        ".wbpay.ru",
+        ".wibes.ru",
+        ".wildberries.ru"
+      ]
+    }
+  ]
+}
