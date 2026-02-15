@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "microsoftnews.cn",
+        "msn.cn",
+        "browser.events.data.msn.cn"
+      ],
+      "domain_suffix": [
+        ".microsoftnews.cn",
+        ".msn.cn",
+        ".browser.events.data.msn.cn"
+      ]
+    }
+  ]
+}

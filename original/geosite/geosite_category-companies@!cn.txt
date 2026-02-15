@@ -1,0 +1,15 @@
+alibabacloud.co.in
+alibabacloud.com
+alibabacloud.com.au
+alibabacloud.com.hk
+alibabacloud.com.my
+alibabacloud.com.sg
+alibabacloud.com.tw
+alicloud.com
+full:alt1-mtalk.google.com
+full:alt2-mtalk.google.com
+full:alt3-mtalk.google.com
+full:alt4-mtalk.google.com
+full:alt5-mtalk.google.com
+full:alt6-mtalk.google.com
+full:mtalk.google.com

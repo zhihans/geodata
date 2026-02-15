@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "cainiao-inc.com",
+        "cainiao.com",
+        "cainiaoyizhan.com",
+        "guoguo-app.com",
+        "cainiao.com.cn",
+        "v6-adashx.ut.cainiao.com"
+      ],
+      "domain_suffix": [
+        ".cainiao-inc.com",
+        ".cainiao.com",
+        ".cainiaoyizhan.com",
+        ".guoguo-app.com",
+        ".cainiao.com.cn",
+        ".v6-adashx.ut.cainiao.com"
+      ]
+    }
+  ]
+}
