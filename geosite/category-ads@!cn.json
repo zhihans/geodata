@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "htrace.wetvinfo.com",
+        "analytics.tiktok.com"
+      ],
+      "domain_suffix": [
+        ".htrace.wetvinfo.com",
+        ".analytics.tiktok.com"
+      ]
+    }
+  ]
+}

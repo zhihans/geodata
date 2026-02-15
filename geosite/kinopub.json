@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "kino.pub",
+        "kinopub.online",
+        "kpdl.link",
+        "gfw.ovh",
+        "mos-gorsud.co",
+        "cdn-service.space",
+        "cdn2cdn.com",
+        "cdn2site.com",
+        "pushbr.com"
+      ],
+      "domain_suffix": [
+        ".kino.pub",
+        ".kinopub.online",
+        ".kpdl.link",
+        ".gfw.ovh",
+        ".mos-gorsud.co",
+        ".cdn-service.space",
+        ".cdn2cdn.com",
+        ".cdn2site.com",
+        ".pushbr.com"
+      ],
+      "domain_regex": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$"
+    }
+  ]
+}
