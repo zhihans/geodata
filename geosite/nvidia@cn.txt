@@ -1,0 +1,4 @@
+geforce.cn
+gputechconf.cn
+nvidia.cn
+full:cn.download.nvidia.com
